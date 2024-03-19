@@ -29,4 +29,16 @@ export const coinData = [
       percent:-1.57, 
       value:'$0.614869'
     },
+    {
+      logo:'/assets/ada.png',
+      code:'ADA', 
+      percent:-1.57, 
+      value:'$0.614869'
+    },
+    {
+      logo:'/assets/avax.png',
+      code:'AVAX', 
+      percent:-1.57, 
+      value:'$0.614869'
+    },
   ]
