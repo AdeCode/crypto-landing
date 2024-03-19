@@ -198,6 +198,8 @@ export default function Home() {
               </div>
 
             </div>
+            <Tokenomics/>
+            <Team/>
           </div>
           <div className="lg:w-[25%] w-full">
             <div className="p-4 bg-[#0052FE] rounded-2xl flex flex-col items-center gap-8 py-8 mb-8">
@@ -256,8 +258,6 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <Tokenomics/>
-        <Team/>
       </div>
       <Footer/>
     </main>

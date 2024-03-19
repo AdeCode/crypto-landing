@@ -4,7 +4,7 @@ import React from 'react'
 function TeamCard({name,image}) {
   return (
     <div className='rounded-[7.5px] bg-[#E8F4FD] flex'>
-        <div className='flex gap-2 flex-col w-[228px] py-4 px-6'>
+        <div className='flex gap-2 flex-col w-[358px] py-4 px-3'>
             <Image
                 src={image}
                 width={97}
